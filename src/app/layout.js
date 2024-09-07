@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-
+  title: "Recode The Planet",
   description: "Recode The Planet",
 };
 
