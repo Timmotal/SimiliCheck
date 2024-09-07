@@ -1,4 +1,9 @@
+import "./globals.css";
 
+export const metadata = {
+
+  description: "Recode The Planet",
+};
 
 export default function RootLayout({ children }) {
   return (
