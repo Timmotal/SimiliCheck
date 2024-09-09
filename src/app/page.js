@@ -5,6 +5,7 @@ import Hero from "@/components/hero/Hero";
 import Nav from "@/components/nav/Nav";
 import Solution from "@/components/solution/Solution";
 import Works from "@/components/works/Works";
+import Roadmap from "@/components/roadmap/Roadmap";
 
 export default function Home() {
  
