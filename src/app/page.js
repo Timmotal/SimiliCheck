@@ -8,6 +8,7 @@ import Works from "@/components/works/Works";
 import Roadmap from "@/components/roadmap/Roadmap";
 import Footer from "@/components/footer/Footer";
 import Team from "@/components/team/Team";
+import Funding from "@/components/funding/Funding";
 
 export default function Home() {
  
