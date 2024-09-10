@@ -13,6 +13,7 @@ import Funding from "@/components/funding/Funding";
 export default function Home() {
     return (
         <div className="relative bg-background  ">
+          <Nav />
         </div>
       );
  
