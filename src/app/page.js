@@ -7,6 +7,7 @@ import Solution from "@/components/solution/Solution";
 import Works from "@/components/works/Works";
 import Roadmap from "@/components/roadmap/Roadmap";
 import Footer from "@/components/footer/Footer";
+import Team from "@/components/team/Team";
 
 export default function Home() {
  
