@@ -14,6 +14,7 @@ export default function Home() {
     return (
         <div className="relative bg-background  ">
           <Nav />
+          <Hero />
         </div>
       );
  
