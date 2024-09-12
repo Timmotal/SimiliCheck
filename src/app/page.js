@@ -18,6 +18,7 @@ export default function Home() {
           <HeroCards />
           <Goal />
           <Solution />
+          <Works />
         </div>
       );
  
