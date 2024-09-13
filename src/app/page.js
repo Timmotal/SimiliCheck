@@ -20,6 +20,7 @@ export default function Home() {
           <Solution />
           <Works />
           <Funding />
+          <Roadmap />
         </div>
       );
  
