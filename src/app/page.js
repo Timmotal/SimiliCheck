@@ -21,6 +21,7 @@ export default function Home() {
           <Works />
           <Funding />
           <Roadmap />
+          <Team />
         </div>
       );
  
