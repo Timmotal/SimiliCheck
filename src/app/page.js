@@ -22,6 +22,7 @@ export default function Home() {
           <Funding />
           <Roadmap />
           <Team />
+          <Footer />
         </div>
       );
  
