@@ -19,6 +19,7 @@ export default function Home() {
           <Goal />
           <Solution />
           <Works />
+          <Funding />
         </div>
       );
  
