@@ -5,7 +5,9 @@ import { useFeatureStore } from "./store";
 const FeatureCard = ({ children, id, imageUrl }) => {
   const inViewFeature = useFeatureStore((state) => state.inViewFeature);
 
- 
+  return (
+
+  );
 };
 
 
