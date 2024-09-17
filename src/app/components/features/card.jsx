@@ -14,7 +14,11 @@ const FeatureCard = ({ children, id, imageUrl }) => {
           : "pointer-events-none opacity-0"
       )}
     >
-    
+      <img
+        src={imageUrl}
+        alt={`Feature ${id}`}
+        className="w-full h-full object-cover rounded-2xl"
+      />
    
       {children}
     </div>
