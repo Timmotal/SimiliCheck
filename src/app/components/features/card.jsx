@@ -31,7 +31,11 @@ export const Todo = ({ id }) => {
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
 
+export const Colors = ({ id }) => {
+  const imageUrl = "/steps/step2.png";
 
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
