@@ -37,7 +37,11 @@ export const Colors = ({ id }) => {
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
 
+export const Availability = ({ id }) => {
+  const imageUrl = "/steps/step3.png";
 
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
