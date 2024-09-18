@@ -25,6 +25,23 @@ const FeatureCard = ({ children, id, imageUrl }) => {
   );
 };
 
+export const Todo = ({ id }) => {
+  const imageUrl = "/steps/step1.png";
+
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
