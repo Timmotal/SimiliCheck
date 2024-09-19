@@ -49,6 +49,11 @@ export const Music = ({ id }) => {
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
 
+export const SchedulingLinks = ({ id }) => {
+  const imageUrl = "/steps/step5.png";
+
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
