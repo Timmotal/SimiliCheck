@@ -43,7 +43,11 @@ export const Availability = ({ id }) => {
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
 
+export const Music = ({ id }) => {
+  const imageUrl = "/steps/step4.png";
 
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
