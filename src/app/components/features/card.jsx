@@ -55,7 +55,11 @@ export const SchedulingLinks = ({ id }) => {
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
 
+export const Team = ({ id }) => {
+  const imageUrl = "/steps/step6.png";
 
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
