@@ -60,7 +60,11 @@ export const Team = ({ id }) => {
 
   return <FeatureCard id={id} imageUrl={imageUrl} />;
 };
+export const Team1 = ({ id }) => {
+  const imageUrl =   "/steps/step7.png";
 
+  return <FeatureCard id={id} imageUrl={imageUrl} />;
+};
 
 
 
