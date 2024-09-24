@@ -9,6 +9,7 @@ const FeatureTitle = ({ children, id }) => {
     margin: "-50% 0px -50% 0px",
   });
   const setInViewFeature = useFeatureStore((state) => state.setInViewFeature);
+  const inViewFeature = useFeatureStore((state) => state.inViewFeature);
 
   return (
 
