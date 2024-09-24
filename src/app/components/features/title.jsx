@@ -8,6 +8,7 @@ const FeatureTitle = ({ children, id }) => {
   const isInView = useInView(ref, {
     margin: "-50% 0px -50% 0px",
   });
+  const setInViewFeature = useFeatureStore((state) => state.setInViewFeature);
 
   return (
 
