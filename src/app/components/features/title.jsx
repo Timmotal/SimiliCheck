@@ -5,6 +5,9 @@ import { useFeatureStore } from "./store";
 
 const FeatureTitle = ({ children, id }) => {
   const ref = useRef(null);
+  const isInView = useInView(ref, {
+    margin: "-50% 0px -50% 0px",
+  });
 
   return (
 
