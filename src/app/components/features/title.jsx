@@ -13,7 +13,7 @@ const FeatureTitle = ({ children, id }) => {
   useEffect(() => {
     if (isInView) setInViewFeature(id);
     if (!isInView && inViewFeature === id) setInViewFeature(null);
-  }, );
+  }, [isInView, id, setInViewFeature, inViewFeature]);
   return (
 
   );
