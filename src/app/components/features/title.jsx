@@ -10,7 +10,10 @@ const FeatureTitle = ({ children, id }) => {
   });
   const setInViewFeature = useFeatureStore((state) => state.setInViewFeature);
   const inViewFeature = useFeatureStore((state) => state.inViewFeature);
-
+  useEffect(() => {
+    if (isInView) setInViewFeature(id);
+    if (!isInView && inViewFeature === id) setInViewFeature(null);
+  }, );
   return (
 
   );
