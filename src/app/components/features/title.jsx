@@ -27,3 +27,4 @@ const FeatureTitle = ({ children, id }) => {
   );
 };
 
+export default FeatureTitle;
