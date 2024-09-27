@@ -15,7 +15,14 @@ const FeatureTitle = ({ children, id }) => {
     if (!isInView && inViewFeature === id) setInViewFeature(null);
   }, [isInView, id, setInViewFeature, inViewFeature]);
   return (
-
+    <div
+      ref={ref}
+      className={classNames(
+        "primary text-5 feature-title font-heading m-10",
+        isInView ? "text-mediumYellow" : "text-mediumYellow/10"
+      )}
+    >
+    </div>
   );
 };
 
