@@ -22,6 +22,7 @@ const FeatureTitle = ({ children, id }) => {
         isInView ? "text-mediumYellow" : "text-mediumYellow/10"
       )}
     >
+      {children}
     </div>
   );
 };
