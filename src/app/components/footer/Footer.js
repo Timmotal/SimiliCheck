@@ -22,7 +22,9 @@ const Footer = () => {
         </button>
       </div>
       <div>
-     
+        <h4 className="SpaceMonoRegular text-[15px] !text-lightGray mb-5">
+          Follow our socials
+        </h4>
       
       </div>
       <img src="/footer-icons/recode-circle.png" alt="" className="w-16" />
