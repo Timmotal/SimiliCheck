@@ -12,7 +12,10 @@ const Footer = () => {
         channels on Discord and Telegram to connect with the global community!
       </p>
       <div className="flex gap-2 lg:gap-6 ">
-     
+        <button className="primary flex justify-center items-center gap-2 text-[15px] bg-skyBlue  text-darkGray rounded-full   px-6 py-2  h-[70px] w-[160px]">
+          <img src="/footer-icons/discord.png" alt="" className="h-8 w-8" />{" "}
+          discord
+        </button>
        
       </div>
       <div>
