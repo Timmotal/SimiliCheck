@@ -25,6 +25,7 @@ const Footer = () => {
      
       
       </div>
+      <img src="/footer-icons/recode-circle.png" alt="" className="w-16" />
 
     
     </div>
