@@ -11,7 +11,10 @@ const Footer = () => {
         Even pre-launch, you can get involved by joining our collaboration
         channels on Discord and Telegram to connect with the global community!
       </p>
-   
+      <div className="flex gap-2 lg:gap-6 ">
+     
+       
+      </div>
       <div>
      
       
