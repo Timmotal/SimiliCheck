@@ -16,7 +16,10 @@ const Footer = () => {
           <img src="/footer-icons/discord.png" alt="" className="h-8 w-8" />{" "}
           discord
         </button>
-       
+        <button className="primary flex justify-center items-center gap-2 text-[15px] bg-skyBlue  text-darkGray rounded-full   px-6 py-2  h-[70px] w-[160px]">
+          <img src="/footer-icons/telegram.png" alt="" className="h-8 w-8" />{" "}
+          telegram
+        </button>
       </div>
       <div>
      
