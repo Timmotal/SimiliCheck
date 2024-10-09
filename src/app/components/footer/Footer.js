@@ -29,6 +29,7 @@ const Footer = () => {
           <img src="/footer-icons/facebook.png" alt="" />
           <img src="/footer-icons/instagram.png" alt="" />
           <img src="/footer-icons/x.png" alt="" />
+          <img src="/footer-icons/linkedin.png" alt="" />
         </div>
       </div>
       <img src="/footer-icons/recode-circle.png" alt="" className="w-16" />
