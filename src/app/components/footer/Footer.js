@@ -27,6 +27,7 @@ const Footer = () => {
         </h4>
         <div className="flex gap-6 h-6 w-6 mb-[30px]">
           <img src="/footer-icons/facebook.png" alt="" />
+          <img src="/footer-icons/instagram.png" alt="" />
         </div>
       </div>
       <img src="/footer-icons/recode-circle.png" alt="" className="w-16" />
