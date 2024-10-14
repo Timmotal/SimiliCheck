@@ -36,7 +36,10 @@ const Footer = () => {
 
       <footer>
         <ul className="flex justify-center items-center gap-6 primary text-[16px]  !text-lightGray">
-         
+          <li className="cursor-pointer">
+            <a href="#goal">about</a>
+          </li>
+        
         </ul>
       
       </footer>
