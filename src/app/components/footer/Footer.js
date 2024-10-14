@@ -35,8 +35,10 @@ const Footer = () => {
       <img src="/footer-icons/recode-circle.png" alt="" className="w-16" />
 
       <footer>
-  
-     
+        <ul className="flex justify-center items-center gap-6 primary text-[16px]  !text-lightGray">
+         
+        </ul>
+      
       </footer>
 
     
