@@ -46,7 +46,10 @@ const Footer = () => {
             <a href="#news">news</a>
           </li>
         </ul>
-      
+        <p className="pt-5 pb-16 SpaceMonoRegular text-[12px] !text-lightGray">
+   ved
+        </p>
+         
       </footer>
 
     
