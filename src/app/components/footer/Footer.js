@@ -43,7 +43,7 @@ const Footer = () => {
             <a href="#works">how it works</a>{" "}
           </li>
           <li className="cursor-pointer">
-           
+            <a href="#news">news</a>
           </li>
         </ul>
       
