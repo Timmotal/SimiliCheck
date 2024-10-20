@@ -10,7 +10,8 @@ const Funding = () => {
       
       </div>
 
-
+      <div className="flex flex-col md:flex-row justify-center items-center gap-8 lg:gap-20  md:pb-20 lg:mt-10">
+        <div>
         </div>
      
       </div>
