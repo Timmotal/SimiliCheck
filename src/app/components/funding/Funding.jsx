@@ -6,6 +6,7 @@ const Funding = () => {
     
       <div className="flex flex-col md:flex-row justify-center items-center gap-8 lg:gap-20  md:pb-20 lg:mt-10">
         <div>
+          <img src="/consciousFunding.png" alt="" className="" />
         </div>
         <div className="gap-24">
         <p className="SpaceMonoRegular text-[20px]  lg:text-[24px] text-lightGray text-center md:text-left w-full max-w-[500px]">
