@@ -7,7 +7,10 @@ const Funding = () => {
         <h3 className="primary text-[26px] lg:text-[32px] text-darkPink ">
           Conscious Funding
         </h3>
-   
+        <p className="SpaceMonoRegular text-[14px]  lg:text-[15px] text-lightGray text-center">
+          Project Recode's dedicated funding portal connects nonprofits and
+          social impact campaigns with mission-aligned investors.
+        </p>
       </div>
 
       <div className="flex flex-col md:flex-row justify-center items-center gap-8 lg:gap-20  md:pb-20 lg:mt-10">
