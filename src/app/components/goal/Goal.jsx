@@ -7,7 +7,8 @@ const Goal = () => {
       id="goal"
     >
     
-    
+      <div className="w-[297px] h-[286px] lg:w-[450px] lg:h-[450px] mt-14">
+      </div>
     </div>
   );
 };
