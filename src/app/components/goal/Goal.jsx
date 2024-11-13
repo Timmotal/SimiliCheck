@@ -8,6 +8,7 @@ const Goal = () => {
     >
     
       <div className="w-[297px] h-[286px] lg:w-[450px] lg:h-[450px] mt-14">
+        <img src="/goal.png" alt="goal.png" className="h-full w-full" />
       </div>
     </div>
   );
