@@ -10,7 +10,12 @@ const Goal = () => {
         <h3 className="primary w-full text-[28px] lg:text-[32px] text-darkPink text-center  md:text-start mt-20 lg:mt-0">
           our goal
         </h3>
-   
+        <p className="SpaceMonoRegular text-[14px]  lg:text-[15px] text-lightGray ">
+          We establish an equitable portal where conscious causes gain
+          resources, community builders earn rewards, and life-affirming
+          messages spread further through the collective power of human
+          creativity blended with ethical technology for global good.
+        </p>
         <button className="primary text-[15px] text-darkGray px-[21px] py-[19px] bg-skyBlue rounded-full w-[160px]">
           Early access
         </button>
