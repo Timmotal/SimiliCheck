@@ -7,7 +7,10 @@ const Goal = () => {
       id="goal"
     >
       <div className="w-full lg:max-w-[590px] flex flex-col md:items-start justify-center items-center lg:justify-start lg:items-start   gap-6 md:w-full md:max-w-[300px]  ">
-     
+        <h3 className="primary w-full text-[28px] lg:text-[32px] text-darkPink text-center  md:text-start mt-20 lg:mt-0">
+          our goal
+        </h3>
+   
        
       </div>
       <div className="w-[297px] h-[286px] lg:w-[450px] lg:h-[450px] mt-14">
