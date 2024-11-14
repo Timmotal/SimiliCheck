@@ -11,7 +11,9 @@ const Goal = () => {
           our goal
         </h3>
    
-       
+        <button className="primary text-[15px] text-darkGray px-[21px] py-[19px] bg-skyBlue rounded-full w-[160px]">
+          Early access
+        </button>
       </div>
       <div className="w-[297px] h-[286px] lg:w-[450px] lg:h-[450px] mt-14">
         <img src="/goal.png" alt="goal.png" className="h-full w-full" />
