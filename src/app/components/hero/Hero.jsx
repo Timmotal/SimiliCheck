@@ -10,7 +10,10 @@ const Hero = () => {
         alt="bgImg"
         className="w-full h-[260px] md:h-[440px] lg:h-full object-cover"
       />
-
+      <p className="absolute inset-x-0 -bottom-6 md:bottom-10  lg:bottom-0 SpaceMonoRegular text-center text-[14px] lg:text-[20px]  uppercase mx-auto max-w-[290px] mlg:max-w-[440px] ">
+        Connecting nonprofits, creatives, and philanthropists from around the
+        cosmos to accelerate collaboration and amplify impact.
+      </p>
     </div>
 
   </div>
