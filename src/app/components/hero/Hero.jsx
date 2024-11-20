@@ -15,6 +15,8 @@ const Hero = () => {
         cosmos to accelerate collaboration and amplify impact.
       </p>
     </div>
+    <Chatbot />
+    <div className="relative overflow-hidden flex flex-col justify-center items-center gap-2 my-10">
 
   </div>
   
