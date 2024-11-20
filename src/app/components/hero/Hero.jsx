@@ -17,7 +17,9 @@ const Hero = () => {
     </div>
     <Chatbot />
     <div className="relative overflow-hidden flex flex-col justify-center items-center gap-2 my-10">
+        <div className="h-1 w-screen bg-darkPink"></div>
 
+      </div>
   </div>
   
   );
