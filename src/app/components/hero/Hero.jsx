@@ -20,7 +20,10 @@ const Hero = () => {
         <div className="h-1 w-screen bg-darkPink"></div>
         <div className="relative overflow-hidden w-screen text-center">
           <div className="inline-block whitespace-nowrap animate-marquee text-[40px]">
-
+            <p className="inline-block primary text-transparent  ">
+ 
+        
+            </p>
           </div>
         </div>
       </div>
