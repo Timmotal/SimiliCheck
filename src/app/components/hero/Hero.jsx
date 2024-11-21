@@ -26,7 +26,10 @@ const Hero = () => {
                  from around the globe to accelerate collaboration and amplify impact.
               </span>
               {/* Duplicate the text to continue seamlessly */}
-     
+              <span className="text-stroke-red-500 text-skyBlue">
+              PROJECT_ RECODE THE PLANET. Connecting nonprofits, creatives, and philanthropists
+                 from around the globe to accelerate collaboration and amplify impact.
+              </span>
     
         
             </p>
