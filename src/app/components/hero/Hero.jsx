@@ -21,7 +21,13 @@ const Hero = () => {
         <div className="relative overflow-hidden w-screen text-center">
           <div className="inline-block whitespace-nowrap animate-marquee text-[40px]">
             <p className="inline-block primary text-transparent  ">
- 
+              <span className="text-stroke-red-500 text-skyBlue ">
+                PROJECT_ RECODE THE PLANET. Connecting nonprofits, creatives, and philanthropists
+                 from around the globe to accelerate collaboration and amplify impact.
+              </span>
+              {/* Duplicate the text to continue seamlessly */}
+     
+    
         
             </p>
           </div>
