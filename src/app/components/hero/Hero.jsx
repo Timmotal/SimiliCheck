@@ -41,6 +41,7 @@ const Hero = () => {
             </p>
           </div>
         </div>
+        <div className="h-1 w-screen bg-darkPink"></div>
       </div>
   </div>
   
