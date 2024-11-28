@@ -7,6 +7,7 @@ const HeroCards = () => {
      
       <div className="w-[343px] h-[302px]  lg:w-[384px] lg:h-[336px] border border-skyBlue rounded-[24px] text-lightGray text-[15px] flex flex-col justify-between items-start p-8 SpaceMonoRegular">
         <h3 className="uppercase text-[20px] primary">For BRANDS</h3>
+        <p>Attracting purpose-driven future talent</p>
       </div>
     </div>
   );
