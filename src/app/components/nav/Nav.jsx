@@ -7,7 +7,10 @@ const Nav = () => {
     setMenuOpen(!menuOpen);
   };
 
- 
+  const closeMenu = () => {
+    setMenuOpen(false);
+  };
+
   return (
  
   );
