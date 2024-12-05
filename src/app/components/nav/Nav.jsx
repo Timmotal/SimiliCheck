@@ -12,7 +12,11 @@ const Nav = () => {
   };
 
   return (
- 
+    <nav className="fixed z-10 top-0 left-0 text-white p-4 xlg:px-20 w-screen  h-14 uppercase">
+
+      {/* Responsive menu dropdown */}
+  
+    </nav>
   );
 };
 
