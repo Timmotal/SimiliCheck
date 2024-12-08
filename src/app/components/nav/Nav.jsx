@@ -18,7 +18,10 @@ const Nav = () => {
           <img src="/logo.png" alt="" className="h-full" />
         </div>
         <ul className="hidden primary lg:flex justify-center items-center gap-6 text-16">
-        
+          <li className="cursor-pointer">
+       
+          </li>
+       
         </ul>
      
   
