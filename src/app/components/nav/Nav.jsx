@@ -21,7 +21,10 @@ const Nav = () => {
           <li className="cursor-pointer">
             <a href="#goal">about</a>
           </li>
-       
+          <li className="cursor-pointer">
+    
+          </li>
+      
         </ul>
      
   
