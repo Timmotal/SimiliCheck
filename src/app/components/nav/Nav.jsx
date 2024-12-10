@@ -31,7 +31,12 @@ const Nav = () => {
         <button className="hidden primary lg:block bg-black font-bold rounded-full px-5 py-4 text-15 text-skyBlue">
           early access
         </button>
-     
+        <button
+          className="lg:hidden bg-black font-bold rounded-full px-3 py-4 text-15 text-skyBlue"
+          onClick={menuHandler}
+        >
+   
+        </button>
   
       </div>
       {/* Responsive menu dropdown */}
