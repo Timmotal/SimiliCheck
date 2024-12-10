@@ -35,7 +35,7 @@ const Nav = () => {
           className="lg:hidden bg-black font-bold rounded-full px-3 py-4 text-15 text-skyBlue"
           onClick={menuHandler}
         >
-   
+          <img src="/menu.png" alt="" className="h-6 w-6" />
         </button>
   
       </div>
