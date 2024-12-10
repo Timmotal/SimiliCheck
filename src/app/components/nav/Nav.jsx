@@ -28,7 +28,7 @@ const Nav = () => {
             <a href="#news">news</a>
           </li>
         </ul>
-        <button className="hidden primary lg:block bg-black font-bold rounded-full px-5 py-4 text-15 text-skyBlue">
+     <button className="hidden primary lg:block bg-black font-bold rounded-full px-5 py-4 text-15 text-skyBlue">
           early access
         </button>
         <button
