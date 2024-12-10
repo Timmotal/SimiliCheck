@@ -29,7 +29,7 @@ const Nav = () => {
           </li>
         </ul>
         <button className="hidden primary lg:block bg-black font-bold rounded-full px-5 py-4 text-15 text-skyBlue">
-         
+          early access
         </button>
      
   
