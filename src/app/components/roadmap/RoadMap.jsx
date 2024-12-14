@@ -9,7 +9,9 @@ const Roadmap = () => {
         </h3>
         <div className="flex  mlg:flex-col justify-center items-center SpaceMonoRegular text-[14px] mlg:text-[15px] !text-lightGray w-full border-collapse   text-center mlg:text-start ">
           <div className="flex flex-col mlg:flex-row ">
-      
+            <div className="  border border-dashed p-4 border-skyBlue w-[170px] h-[210px] md:h-[140px] md:w-[300px] lg:h-[140px] lg:w-[400px] rounded-tl-[16px]  flex flex-col mlg:flex-row   justify-center items-center gap-2 mlg:gap-8 py-2 ">
+   
+            </div>
          
          
           </div>
