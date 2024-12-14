@@ -13,7 +13,9 @@ const Roadmap = () => {
               <p className="text-darkGray text-[14px] mlg:text-[15px] primary px-[23px] py-[17px]  border-[3px]  border-darkPink bg-skyBlue rounded-full ">
                 1
               </p>
-        
+              <span className="w-full max-w-[208px]">
+            
+              </span>
             </div>
          
          
