@@ -8,7 +8,11 @@ const Roadmap = () => {
           OUR ROADMAP Over the next year we aim to
         </h3>
         <div className="flex  mlg:flex-col justify-center items-center SpaceMonoRegular text-[14px] mlg:text-[15px] !text-lightGray w-full border-collapse   text-center mlg:text-start ">
-  
+          <div className="flex flex-col mlg:flex-row ">
+      
+         
+         
+          </div>
        
         </div>
 
