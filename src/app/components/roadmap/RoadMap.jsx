@@ -19,7 +19,7 @@ const Roadmap = () => {
             </div>
             <div className="  border border-dashed p-4 border-skyBlue w-[170px] h-[210px]  md:h-[140px] md:w-[300px] lg:h-[140px] lg:w-[400px]  flex flex-col mlg:flex-row   justify-center items-center gap-2 mlg:gap-8 py-2 ">
               <p className="text-darkGray text-[14px] mlg:text-[15px] primary px-[23px] py-[17px]  border-[3px]  border-darkPink bg-skyBlue rounded-full ">
-            
+                2
               </p>
             
             </div>
