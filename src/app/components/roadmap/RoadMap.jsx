@@ -17,7 +17,10 @@ const Roadmap = () => {
               Onboard 100 nonprofits with campaign needs
               </span>
             </div>
-         
+            <div className="  border border-dashed p-4 border-skyBlue w-[170px] h-[210px]  md:h-[140px] md:w-[300px] lg:h-[140px] lg:w-[400px]  flex flex-col mlg:flex-row   justify-center items-center gap-2 mlg:gap-8 py-2 ">
+            
+            
+            </div>
          
           </div>
        
