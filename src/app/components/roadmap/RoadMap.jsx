@@ -14,7 +14,7 @@ const Roadmap = () => {
                 1
               </p>
               <span className="w-full max-w-[208px]">
-            
+              Onboard 100 nonprofits with campaign needs
               </span>
             </div>
          
