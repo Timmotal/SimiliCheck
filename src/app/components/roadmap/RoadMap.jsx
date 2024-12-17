@@ -22,6 +22,7 @@ const Roadmap = () => {
                 2
               </p>
               <span className="w-full max-w-[208px]">
+                Recruit 1,000 vetted creatives into active portal participation
               </span>
             </div>
          
