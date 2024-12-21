@@ -6,7 +6,10 @@ const Solution = () => {
       <div className="w-[278px] h-[320px] lg:w-[470px] lg:h-[540px] mt-10 lg:mt-0">
         <img src="/solution.png" alt="solution.png" className="h-full w-full" />
       </div>
+      <div className="w-full md:max-w-[300px] lg:max-w-[590px]  flex flex-col gap-6  ">
      
+      
+      </div>
     </div>
   );
 };
