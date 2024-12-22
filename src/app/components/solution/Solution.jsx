@@ -7,7 +7,9 @@ const Solution = () => {
         <img src="/solution.png" alt="solution.png" className="h-full w-full" />
       </div>
       <div className="w-full md:max-w-[300px] lg:max-w-[590px]  flex flex-col gap-6  ">
-     
+        <h3 className="primary text-[28px] lg:text-[32px] text-darkPink w-full text-center lg:text-left">
+        
+        </h3>
       
       </div>
     </div>
