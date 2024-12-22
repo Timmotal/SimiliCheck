@@ -11,7 +11,12 @@ const Solution = () => {
           our solution
         </h3>
         <p className="SpaceMonoRegular text-[14px]  lg:text-[15px] text-lightGray">
-        
+          Project Recode's innovative online platform facilitates a
+          collaborative content creation process between nonprofits and creative
+          professionals. Through this mechanism of matching causes and skills,
+          developing custom assets, community voting, publication and sharing,
+          Project Recode amplifies nonprofit reach while incentivizing
+          purposeful work.
         </p>
       </div>
     </div>
