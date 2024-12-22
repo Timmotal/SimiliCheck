@@ -10,7 +10,9 @@ const Solution = () => {
         <h3 className="primary text-[28px] lg:text-[32px] text-darkPink w-full text-center lg:text-left">
           our solution
         </h3>
-      
+        <p className="SpaceMonoRegular text-[14px]  lg:text-[15px] text-lightGray">
+        
+        </p>
       </div>
     </div>
   );
