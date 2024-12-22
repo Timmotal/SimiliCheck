@@ -8,7 +8,7 @@ const Solution = () => {
       </div>
       <div className="w-full md:max-w-[300px] lg:max-w-[590px]  flex flex-col gap-6  ">
         <h3 className="primary text-[28px] lg:text-[32px] text-darkPink w-full text-center lg:text-left">
-        
+          our solution
         </h3>
       
       </div>
