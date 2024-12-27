@@ -8,7 +8,9 @@ const Team = () => {
           Our Launch Partners
         </h3>
         <p className="SpaceMonoRegular  text-[14px] lg:text-[15px] text-lightGray w-full max-w-[440px] lg:max-w-[716px] text-center px-4">
-   
+          We're piloting Recode in collaboration with these ten incredible
+          organizations who will shape the portal based on needs among their own
+          users and beneficiaries.
         </p>
 
      
