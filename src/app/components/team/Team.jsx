@@ -12,10 +12,8 @@ const Team = () => {
           organizations who will shape the portal based on needs among their own
           users and beneficiaries.
         </p>
-
-     
-      
-       
+        <div className="flex justify-center items-center gap-6 w-screen">
+        </div>
       </div>
     </div>
   );
