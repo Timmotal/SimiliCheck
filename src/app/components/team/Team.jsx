@@ -13,6 +13,7 @@ const Team = () => {
           users and beneficiaries.
         </p>
         <div className="flex justify-center items-center gap-6 w-screen">
+          <img src="/morquee-logo/figma.png" alt="" className="h-[120px]" />
         </div>
       </div>
     </div>
