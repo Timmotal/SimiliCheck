@@ -15,6 +15,7 @@ const Team = () => {
         <div className="flex justify-center items-center gap-6 w-screen">
           <img src="/morquee-logo/figma.png" alt="" className="h-[120px]" />
           <img src="/morquee-logo/cola.png" alt="" className="h-[120px]" />
+          <img src="/morquee-logo/nike.png" alt="" className="h-[120px]" />
         </div>
       </div>
     </div>
