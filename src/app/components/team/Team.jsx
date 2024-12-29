@@ -16,6 +16,7 @@ const Team = () => {
           <img src="/morquee-logo/figma.png" alt="" className="h-[120px]" />
           <img src="/morquee-logo/cola.png" alt="" className="h-[120px]" />
           <img src="/morquee-logo/nike.png" alt="" className="h-[120px]" />
+          <img src="/morquee-logo/aws.png" alt="" className="h-[120px]" />
         </div>
       </div>
     </div>
